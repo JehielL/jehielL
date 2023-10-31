@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+*Full Stack Devepoler Working on: Java, angular, fluter, dart, git, SQL.
 <!--
 **JehielL/jehielL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
