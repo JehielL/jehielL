@@ -1,5 +1,9 @@
 ### Hi there 👋
-*Full Stack Devepoler Working on: Java, angular, fluter, dart, git, SQL.
+Emprendedor, analítico y resolutivo, con habilidades de adaptación. Actualmente, estoy inmerso en estudios avanzados de Full Stack Developer en la Fundación Adecco, utilizando tecnologías como Java, Python, SQL, Angular, Spring Boot y Hibernate.
+
+Cuento con una amplia experiencia en gestión y dirección de equipos, así como en la apertura de negocios, entrenamiento de personal, control de gastos e inventario, y desarrollo de nuevos negocios.
+
+En mi anterior profesión, logré alcanzar hitos significativos como miembro fundador de Franquicias Oh Toro & Ramen en Panamá, con más de 20 casos de éxito en aperturas y desarrollo de nuevos negocios. Ahora busco mi primera oportunidad dentro de la industria de la tecnología, donde pueda fusionar mis conocimientos anteriores con las habilidades recién adquiridas.
 <!--
 **JehielL/jehielL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
