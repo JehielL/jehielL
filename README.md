@@ -1,5 +1,7 @@
 ### Hi there 👋
-Emprendedor, analítico y resolutivo, con habilidades de adaptación. Actualmente, estoy inmerso en estudios avanzados de Full Stack Developer en la Fundación Adecco, utilizando tecnologías como Java, Python, SQL, Angular, Spring Boot y Hibernate.
+Emprendedor, analítico y resolutivo, con habilidades de adaptación. Actualmente, estoy inmerso en estudios avanzados de Full Stack Developer en la Fundación Adecco, utilizando tecnologías como Java, Python, SQL, Angular, Spring Boot .
+
+Incursionando en el mundo de la tecnología, me encuentro cursando estudios en fundación Telefonico de la mano del prestigioso campus 42, desarrollando tareas como mi propia biblioteca de funciones, me encuentro inmerso en nuevos y novedosos metodos de estudios, lo cual me ha permitido adquirir conocimientos en lenguajes de programación, como lo son C/C++.
 
 Cuento con una amplia experiencia en gestión y dirección de equipos, así como en la apertura de negocios, entrenamiento de personal, control de gastos e inventario, y desarrollo de nuevos negocios.
 
