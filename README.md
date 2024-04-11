@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- Welcome Section -->
 <p align="center">
-  <img src="bannergithub.png" alt="Vica's GitHub Banner">
+  <img src="" alt="Vica's GitHub Banner">
 </p>
 
 <p align="center">
