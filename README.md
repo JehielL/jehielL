@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- Welcome Section -->
 <p align="center">
-  <img src="" alt="Vica's GitHub Banner">
+  <img src="" alt="">
 </p>
 
 <p align="center">
@@ -27,10 +27,10 @@
   <summary><h4>📈 Click to expand Stats</h4></summary>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoric&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehiell&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vittoric&show_icons=true&hide_border=true&theme=algolia" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jehiell&show_icons=true&hide_border=true&theme=algolia" alt="GitHub Stats">
   </p>
 </details>
 
