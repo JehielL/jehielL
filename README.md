@@ -1,11 +1,74 @@
 ### Hi there 👋
-Emprendedor, analítico y resolutivo, con habilidades de adaptación. Actualmente, estoy inmerso en estudios avanzados de Full Stack Developer en la Fundación Adecco, utilizando tecnologías como Java, Python, SQL, Angular, Spring Boot .
+<!-- Welcome Section -->
+<p align="center">
+  <img src="bannergithub.png" alt="Vica's GitHub Banner">
+</p>
 
-Incursionando en el mundo de la tecnología, me encuentro cursando estudios en fundación Telefonica de la mano del prestigioso campus 42, desarrollando tareas como mi propia biblioteca de funciones, me encuentro inmerso en nuevos y novedosos metodos de estudios, lo cual me ha permitido adquirir conocimientos en lenguajes de programación, como lo son C/C++.
+<p align="center">
+  <a href="https://vittoric.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Check%20it%20out!-brightgreen?style=for-the-badge" alt="Portfolio"></a>
+</p>
 
-Cuento con una amplia experiencia en gestión y dirección de equipos, así como en la apertura de negocios, entrenamiento de personal, control de gastos e inventario, y desarrollo de nuevos negocios.
+<p align="center">
+  🚀 Welcome to my coding universe! As a passionate coder and student at 42 Madrid, I'm thrilled to share my latest projects and creations with you.
+</p>
 
-En mi anterior profesión, logré alcanzar hitos significativos como miembro fundador de Franquicias Oh Toro & Ramen en Panamá, con más de 20 casos de éxito en aperturas y desarrollo de nuevos negocios. Ahora busco mi primera oportunidad dentro de la industria de la tecnología, donde pueda fusionar mis conocimientos anteriores con las habilidades recién adquiridas.
+<!-- About Me Section -->
+## 💬 About Me
+
+- 🎓 Currently studying at 42 Madrid, diving deep into the world of coding.
+- 💻 A collection of diverse projects awaits you, ranging from simple scripts to intricate applications, showcasing my skills across multiple languages and tools.
+- 📚 Some projects come with detailed documentation, making them accessible and inviting for fellow developers.
+- 🌍 Join me in exploring the endless possibilities of coding, and let's create something amazing together.
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
+
+<details>
+  <summary><h4>📈 Click to expand Stats</h4></summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vittoric&layout=compact&theme=algolia&hide_border=true" alt="Top Languages">
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=vittoric&show_icons=true&hide_border=true&theme=algolia" alt="GitHub Stats">
+  </p>
+</details>
+
+<!-- Hobbies Section -->
+## 📅 Hobbies
+
+- 🎨 Exploring new design trends.
+- ⚽ Passionate about sports.
+- 📸 Photography enthusiast.
+
+<!-- Current Project Section -->
+## 💻 Current Project
+
+- 🔗 Check out my latest project [here](https://github.com/jehiell/bitebooking-front).
+
+<!-- Learning Section -->
+## 📚 Learning
+
+- Always exploring new technologies and frameworks.
+
+<!-- How to Reach Me Section -->
+## 📫 How to Reach Me
+
+You can reach out to me at [jehiel.py@gmail.com](mailto:jehiel.py@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vcodrean/)
+
+<!-- Social Media Section -->
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jehiel-linarez/" target="_blank" ><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" alt="LinkedIn"></a>
+</div>
+
+<div align="center">
+  <h3>Show some ❤️ by starring some of my repositories!</h3>
+</div>
+
+<!-- Footer Section -->
+
 <!--
 **JehielL/jehielL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
