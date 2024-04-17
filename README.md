@@ -44,7 +44,7 @@
 <!-- Current Project Section -->
 ## 💻 Current Project
 
-- 🔗 Check out my latest project [here](https://github.com/jehiell/bitebooking-front).
+- 🔗 Check out my latest project [here](https://github.com/JehielL/bitebooking-frontend).
 
 <!-- Learning Section -->
 ## 📚 Learning
