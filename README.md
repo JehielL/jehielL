@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  🚀 Welcome to my coding universe! As a passionate coder and student at 42 Madrid, I'm thrilled to share my latest projects and creations with you.
+  🚀 Bienvenidos a mi repositorio! Soy desarrollador fullstack de aplicaciones web, te invito a darle un vistazo a mis ultimos proyectos.
 </p>
 
 <!-- About Me Section -->
 ## 💬 About Me
 
-- 🎓 Currently studying at 42 Madrid, diving deep into the world of coding.
-- 💻 A collection of diverse projects awaits you, ranging from simple scripts to intricate applications, showcasing my skills across multiple languages and tools.
-- 📚 Some projects come with detailed documentation, making them accessible and inviting for fellow developers.
-- 🌍 Join me in exploring the endless possibilities of coding, and let's create something amazing together.
+- 🎓 Recientemenete he finalizado un master en desarrollo de web con tecnologias como angular, java, sql, comprometido en aprendizaje, estoy especializando mis estudios dentro del prestigioso campsu 42 en Fundación Telefónica Madrid.
+- 💻 Entre mis mas recientes proyectos, he realizado una aplicación web llamada Bitebooking, está destinada para el aréa hostelera, permitiendo realizar acciones como: crear restaurants, crear menús, crear reservar, realizar reseñas, cuenta con metodos de autenticación de usuario y es 100% fullstack, trabaja con la base de datos MySql, si deseas darle un vistazo, no dudes en contactarme.
+- 📚 En mis futuros proyectos, esta Tech Chef, una startup dedicada a la digitalización de la hostelerúa en España.
+- 🌍 Entra conmigo en este maravilloso mundo del codigo, sientete libre si deseas colaborar en alguno de mis proyecto.
 
 <!-- GitHub Stats Section -->
 ## 📊 GitHub Stats
@@ -37,24 +37,24 @@
 <!-- Hobbies Section -->
 ## 📅 Hobbies
 
-- 🎨 Exploring new design trends.
-- ⚽ Passionate about sports.
-- 📸 Photography enthusiast.
+- 🎨 Diseño y pintura.
+- 📸 Fotografo amateur.
 
 <!-- Current Project Section -->
 ## 💻 Current Project
-
+      
 - 🔗 Check out my latest project [here](https://github.com/JehielL/bitebooking-frontend).
+- 
 
 <!-- Learning Section -->
 ## 📚 Learning
 
-- Always exploring new technologies and frameworks.
+- Me encuentro especializando mis estudios en lenguajes como C, C++, Java, Typescript.
 
 <!-- How to Reach Me Section -->
 ## 📫 How to Reach Me
 
-You can reach out to me at [jehiel.py@gmail.com](mailto:jehiel.py@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vcodrean/)
+Puedes contactarme a través de: [jehiel.py@gmail.com](mailto:jehiel.py@gmail.com) o podriamos conectar en... [LinkedIn](https://www.linkedin.com/in/vcodrean/)
 
 <!-- Social Media Section -->
 ## 🌐 Connect with Me
