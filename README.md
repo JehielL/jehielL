@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  🚀 Bienvenidos a mi repositorio! Soy desarrollador fullstack de aplicaciones web, te invito a darle un vistazo a mis ultimos proyectos.
-</p>
+  🚀 Bienvenidos a mi repositorio! Soy desarrollador fullstack de aplicaciones web, te invito a darle un vistazo a mis ultimos proyectos.</p>
 
 <!-- About Me Section -->
 ## 💬 About Me
