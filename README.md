@@ -16,7 +16,7 @@
 
 - 🎓 Recientemenete he finalizado un master en desarrollo de web con tecnologias como angular, java, sql, comprometido en aprendizaje, estoy especializando mis estudios dentro del prestigioso campsu 42 en Fundación Telefónica Madrid.
 - 💻 Entre mis mas recientes proyectos, he realizado una aplicación web llamada Bitebooking, está destinada para el aréa hostelera, permitiendo realizar acciones como: crear restaurants, crear menús, crear reservar, realizar reseñas, cuenta con metodos de autenticación de usuario y es 100% fullstack, trabaja con la base de datos MySql, si deseas darle un vistazo, no dudes en contactarme.
-- 📚 En mis futuros proyectos, esta Tech Chef, una startup dedicada a la digitalización de la hostelerúa en España.
+- 📚 En mis futuros proyectos, esta Tech Chef, una startup dedicada a la digitalización de la hostelería en España.
 - 🌍 Entra conmigo en este maravilloso mundo del codigo, sientete libre si deseas colaborar en alguno de mis proyecto.
 
 <!-- GitHub Stats Section -->
