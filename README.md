@@ -1,4 +1,3 @@
-### Hi there 👋
 <!-- Welcome Section -->
 <p align="center">
   <img src="" alt="">
